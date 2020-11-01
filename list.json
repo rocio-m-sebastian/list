@@ -1,0 +1,120 @@
+{"list":
+    [
+            {
+            "localidad": "salamanca1",
+            "especialidad": "especialidad",
+            "numero": "1",
+            "centro": {
+                "nombre":"centro",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca2",
+            "especialidad": "especialidad",
+            "numero": "2",
+            "centro": {
+                "nombre":"centro",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca3",
+            "especialidad": "especialidad",
+            "numero": "3",
+            "centro": {
+                "nombre":"centro",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca1",
+            "especialidad": "especialidad",
+            "numero": "1",
+            "centro": {
+                "nombre":"centro",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca2",
+            "especialidad": "especialidad",
+            "numero": "2",
+            "centro": {
+                "nombre":"centro",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca3",
+            "especialidad": "especialidad",
+            "numero": "3",
+            "centro": {
+                "nombre":"centro",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca1",
+            "especialidad": "especialidad",
+            "numero": "1",
+            "centro": {
+                "nombre":"centro",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca2",
+            "especialidad": "especialidad",
+            "numero": "2",
+            "centro": {
+                "nombre":"centro",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca3",
+            "especialidad": "especialidad",
+            "numero": "3",
+            "centro": {
+                "nombre":"centro",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        }
+    ]}
