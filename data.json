@@ -1,11 +1,91 @@
 {"list":
     [
             {
-            "localidad": "salamanca1",
-            "especialidad": "especialidad",
-            "numero": "1",
+            "localidad": "salamanca",
+            "especialidad": "HEMATOLOGÍA Y
+            HEMOTERAPIA",
+            "numero": "137",
             "centro": {
-                "nombre":"centro",
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "DERMATOLOGÍA MÉDICO-QUIRÚRGICA
+            Y V.",
+            "numero": "335",
+            "centro": {
+                "nombre":"DERMATOLOGÍA MÉDICO-QUIRÚRGICA Y V.",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "HEMATOLOGÍA Y HEMOTERAPIA",
+            "numero": "374",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "DERMATOLOGÍA MÉDICO-QUIRÚRGICA Y V",
+            "numero": "428",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "CARDIOLOGÍA",
+            "numero": "448",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "CARDIOLOGÍA",
+            "numero": "458",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "CIRUGÍA GRAL. Y DEL A. DIGESTIVO",
+            "numero": "484",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
                 "nivel": "1",
                 "coordenadas": {
                     "x": "0",
@@ -15,10 +95,10 @@
         },
         {
             "localidad": "salamanca2",
-            "especialidad": "especialidad",
-            "numero": "2",
+            "especialidad": "CARDIOLOGÍA",
+            "numero": "666",
             "centro": {
-                "nombre":"centro",
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
                 "nivel": "1",
                 "coordenadas": {
                     "x": "0",
@@ -27,11 +107,11 @@
             }
         },
         {
-            "localidad": "salamanca3",
-            "especialidad": "especialidad",
-            "numero": "3",
+            "localidad": "salamanca",
+            "especialidad": "RADIODIAGNÓSTICO",
+            "numero": "845",
             "centro": {
-                "nombre":"centro",
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
                 "nivel": "1",
                 "coordenadas": {
                     "x": "0",
@@ -40,11 +120,11 @@
             }
         },
         {
-            "localidad": "salamanca1",
-            "especialidad": "especialidad",
-            "numero": "1",
+            "localidad": "salamanca",
+            "especialidad": "PEDIATRÍA Y ÁREAS ESPECÍFICAS",
+            "numero": "924",
             "centro": {
-                "nombre":"centro",
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
                 "nivel": "1",
                 "coordenadas": {
                     "x": "0",
@@ -53,11 +133,11 @@
             }
         },
         {
-            "localidad": "salamanca2",
-            "especialidad": "especialidad",
-            "numero": "2",
+            "localidad": "salamanca",
+            "especialidad": "PEDIATRÍA Y ÁREAS ESPECÍFICAS",
+            "numero": "984",
             "centro": {
-                "nombre":"centro",
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
                 "nivel": "1",
                 "coordenadas": {
                     "x": "0",
@@ -66,11 +146,11 @@
             }
         },
         {
-            "localidad": "salamanca3",
-            "especialidad": "especialidad",
-            "numero": "3",
+            "localidad": "salamanca",
+            "especialidad": "HEMATOLOGÍA Y HEMOTERAPIA",
+            "numero": "1609",
             "centro": {
-                "nombre":"centro",
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
                 "nivel": "1",
                 "coordenadas": {
                     "x": "0",
@@ -79,11 +159,11 @@
             }
         },
         {
-            "localidad": "salamanca1",
-            "especialidad": "especialidad",
-            "numero": "1",
+            "localidad": "salamanca",
+            "especialidad": "PEDIATRÍA Y ÁREAS ESPECÍFICAS",
+            "numero": "1642",
             "centro": {
-                "nombre":"centro",
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
                 "nivel": "1",
                 "coordenadas": {
                     "x": "0",
@@ -92,11 +172,11 @@
             }
         },
         {
-            "localidad": "salamanca2",
-            "especialidad": "especialidad",
-            "numero": "2",
+            "localidad": "salamanca",
+            "especialidad": "OTORRINOLARINGOLOGÍA",
+            "numero": "1708",
             "centro": {
-                "nombre":"centro",
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
                 "nivel": "1",
                 "coordenadas": {
                     "x": "0",
@@ -105,11 +185,843 @@
             }
         },
         {
-            "localidad": "salamanca3",
-            "especialidad": "especialidad",
-            "numero": "3",
+            "localidad": "salamanca",
+            "especialidad": "CIRUGÍA GRAL. Y DEL A. DIGESTIVO",
+            "numero": "1873",
             "centro": {
-                "nombre":"centro",
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA INTERNA",
+            "numero": "1958",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "OTORRINOLARINGOLOGÍA",
+            "numero": "1708",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ONCOLOGÍA MÉDICA",
+            "numero": "1975",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ONCOLOGÍA MÉDICA",
+            "numero": "2074",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ANESTESIOLOGÍA Y REANIMACIÓN",
+            "numero": "2376",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "APARATO DIGESTIVO",
+            "numero": "2428",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ONCOLOGÍA MÉDICA",
+            "numero": "2463",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ANESTESIOLOGÍA Y REANIMACIÓN",
+            "numero": "2531",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ANESTESIOLOGÍA Y REANIMACIÓN",
+            "numero": "2563",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "OTORRINOLARINGOLOGÍA",
+            "numero": "2753",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ANESTESIOLOGÍA Y REANIMACIÓN",
+            "numero": "2815",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ANESTESIOLOGÍA Y REANIMACIÓN",
+            "numero": "2910",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "OFTALMOLOGÍA",
+            "numero": "2990",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "REUMATOLOGÍA",
+            "numero": "3026",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "OFTALMOLOGÍA",
+            "numero": "3086",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "CIRUGÍA ORTOPÉDICA Y TRAUMATOLOGÍA",
+            "numero": "3143",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "RADIODIAGNÓSTICO",
+            "numero": "3146",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "CIRUGÍA ORTOPÉDICA Y TRAUMATOLOGÍA",
+            "numero": "3164",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "APARATO DIGESTIVO",
+            "numero": "3165",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "OBSTETRICIA Y GINECOLOGÍA",
+            "numero": "3168",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ENDOCRINOLOGÍA Y NUTRICIÓN",
+            "numero": "3207",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "OBSTETRICIA Y GINECOLOGÍA",
+            "numero": "3220",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "OBSTETRICIA Y GINECOLOGÍA",
+            "numero": "3168",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "RADIODIAGNÓSTICO",
+            "numero": "3258",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "PSIQUIATRÍA",
+            "numero": "3379",
+            "centro": {
+                "nombre":"UDM SALUD MENTAL COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "OBSTETRICIA Y GINECOLOGÍA",
+            "numero": "3443",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "PEDIATRÍA Y ÁREAS ESPECÍFICAS",
+            "numero": "3681",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "RADIODIAGNÓSTICO",
+            "numero": "3703",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "UROLOGÍA",
+            "numero": "3716",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "PEDIATRÍA Y ÁREAS ESPECÍFICAS",
+            "numero": "3719",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "PEDIATRÍA Y ÁREAS ESPECÍFICAS",
+            "numero": "3788",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "NEUROLOGÍA",
+            "numero": "3823",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "3919",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA INTERNA",
+            "numero": "4171",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA INTENSIVA",
+            "numero": "4363",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+            "numero": "4402",
+            "centro": {
+                "nombre":"NEUMOLOGÍA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "CIRUGÍA TORÁCICA",
+            "numero": "4701",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA INTERNA",
+            "numero": "4708",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "UDM AFYC SALAMANCA",
+            "numero": "4757",
+            "centro": {
+                "nombre":"MEDICINA FAMILIAR Y COMUNITARIA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "4820",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA INTERNA",
+            "numero": "4708",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA INTERNA",
+            "numero": "4885",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "UDM SALUD MENTAL COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+            "numero": "5157",
+            "centro": {
+                "nombre":"PSIQUIATRÍA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "NEFROLOGÍA",
+            "numero": "5225",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "5260",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "5710",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "5726",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "5830",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ONCOLOGÍA RADIOTERÁPICA",
+            "numero": "5946",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIAMEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "6010",
+            "centro": {
+                "nombre":"MEDICINA FAMILIAR Y COMUNITARIA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "6014",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "6087",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ALERGOLOGÍA",
+            "numero": "6452",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "6498",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "6563",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "NEUROFISIOLOGÍA CLÍNICA",
+            "numero": "6572",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA PREVENTIVA Y SALUD PÚBLICA",
+            "numero": "6740",
+            "centro": {
+                "nombre":"UDMPYSP DE CASTILLA Y LEON. ÁREA SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "6819",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "ANATOMÍA PATOLÓGICA",
+            "numero": "6954",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA FAMILIAR Y COMUNITARIA",
+            "numero": "7077",
+            "centro": {
+                "nombre":"UDM AFYC SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA NUCLEAR",
+            "numero": "8143",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MICROBIOLOGÍA Y PARASITOLOGÍA",
+            "numero": "12076",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MEDICINA DEL TRABAJO",
+            "numero": "8621",
+            "centro": {
+                "nombre":"UDM SALUD LABORAL DE CASTILLA Y LEÓN (COMPLEJO ASISTENCIAL DE SALAMANCA)",
+                "nivel": "1",
+                "coordenadas": {
+                    "x": "0",
+                    "y": "0"
+                }
+            }
+        },
+        {
+            "localidad": "salamanca",
+            "especialidad": "MICROBIOLOGÍA Y PARASITOLOGÍA",
+            "numero": "8878",
+            "centro": {
+                "nombre":"COMPLEJO ASISTENCIAL UNIVERSITARIO DE SALAMANCA",
                 "nivel": "1",
                 "coordenadas": {
                     "x": "0",
